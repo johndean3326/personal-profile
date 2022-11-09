@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(background.jpg);
+    background-size: cover;
+}
+
+.container{
+    width: 350px;
+    background: transparent;
+    padding: 30px; 
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
