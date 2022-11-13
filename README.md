@@ -34,4 +34,4 @@ You are brought to my profile page showing my name and a picture of me standing 
 * The URL of the deployed application.
  ### [@Web page]https://johndean3326.github.io/personal-profile/
  
-### ![Screenshot](./assets/images/profile-complete.jpg)
+### ![Screenshot](./assets/profile_complet.png)
