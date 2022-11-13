@@ -28,4 +28,10 @@ You are brought to my profile page showing my name and a picture of me standing 
  when you click on one of any one of my screenshot of completed works it directs you to that application.
  The application is responsive to various screen layouts.
 
+ * The URL of the GitHub repository, with a unique name and a readme describing the project.
+ ### [@Link to Github]https://github.com/johndean3326/personal-profile
+
+* The URL of the deployed application.
+ ### [@Web page]https://johndean3326.github.io/personal-profile/
  
+### ![Screenshot](./assets/images/profile-complete.jpg)
